@@ -4,7 +4,13 @@
 
 The Personal Finance Visualizer is a web application designed to help users track their financial transactions, set budgets, and visualize spending patterns. It provides interactive charts and insights to improve financial planning and management.
 
-🚀 Features
+# vercel link -
+
+# Frontend - https://finance-frontend-sparsh.vercel.app/
+# Backend - https://finance-backend-sparsh.vercel.app/
+
+
+🚀 Features -
 
 📊 Transaction Tracking: Add, update, and delete income/expenses.
 
@@ -16,7 +22,8 @@ The Personal Finance Visualizer is a web application designed to help users trac
 
 📆 Monthly Summary: Compare actual expenses with budgeted amounts.
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack-
 
 Frontend: React.js, Next.js, Tailwind CSS
 
