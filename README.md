@@ -40,6 +40,8 @@ API Handling: Axios
 Clone the repository:
 
 git clone https://github.com/sparshspradhan/finance-frontend.git
+
+
 cd frontend
 
 Install dependencies:
@@ -158,14 +160,22 @@ mongod
 # Run Backend:
 
 cd backend
+
+
 npm install
+
+
 npm start or node server.js
 
-Run Frontend:
 
 
-# cd frontend:
+# Run Frontend:
+
+
+ cd frontend
 
 npm install
+
+
 npm run dev
 
